@@ -119,7 +119,7 @@ Before acting, identify whether the task—or any sub-task—belongs to a differ
 
 ## Forgejo Interaction — DevOps Endpoints (TOON Proxy)
 
-The TOON Proxy at `192.168.0.185:8080` is the **primary entry point** for reading
+The TOON Proxy at `10.10.0.10:8080` is the **primary entry point** for reading
 infrastructure state. Do NOT fall back to REST API or SQLite — see `copilot-instructions.md §1` (Global Hard Constraints).
 
 | Route | MCP Tool | Use Case |
