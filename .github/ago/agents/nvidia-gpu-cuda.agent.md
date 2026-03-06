@@ -97,14 +97,6 @@ Before acting, identify whether the task—or any sub-task—belongs to a differ
    - Migration must not break the FCIS architecture: GPU kernels are Functional Core
      (pure compute), host orchestration is Imperative Shell
 
-5. **Virtual Memristors (v3.0)** — GPU-accelerated memristor simulation:
-   - Virtual memristors at GPU clock speed — massive parallelism for coupled DEs
-   - Coupled differential equations running on GPU with one thread per memristor
-   - Assess CUDA suitability: is the memristor DE system embarrassingly parallel
-     or does coupling require communication?
-   - Verify numerical integration scheme is GPU-friendly (explicit methods preferred
-     over implicit for parallelism)
-   - Memory requirements: state vectors per memristor × total memristor count
 
 ## Role Boundaries (Shared Delivery)
 
