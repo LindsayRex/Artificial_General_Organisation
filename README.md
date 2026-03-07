@@ -1,13 +1,4 @@
-I# Feature Request: Artificial General Organisation (AGO) — Bootstrapping Swarm Intelligence in GitHub Copilot
-
-**Author:** Lindsay Rex   
-**Date:** 2026-03-06  
-**Status:** Open Feature Request  
-**Target:** GitHub Copilot Agent Mode / VS Code AI Tooling  
-
----
-
-## Executive Summary
+## Artificial General Organisation (AGO) — Bootstrapping Swarm Intelligence ##
 
 We have built a working implementation of **Artificial General Organisation** (AGO) — a paradigm that treats multi-agent AI not as a collection of independent LLM calls, but as a **cybernetic control system** whose intelligence emerges from its organisational topology, not from the capability of any individual node. Over the course of approximately 10 days of intensive empirical work with GitHub Copilot's agent mode in VS Code, we developed and validated techniques drawn from five academic disciplines that, when combined, produce a measurably superior multi-agent swarm. Of those 10 days, roughly 4–5 were spent on the hardest problem: interviewing each meta-agent specialist to extract their unique analytical worldview and encode it into per-expert graph traversal skills and custom prompts. This document describes the techniques, the evidence, the hard-won process insights, and the feature requests that would allow every GitHub Copilot user to bootstrap AGO for their own agent fleets.
 
